@@ -1,19 +1,15 @@
 # Support My Work
 
-Thank you for considering a donation! Your support helps me dedicate more time to open-source projects and development.
+Thank you for considering a donation! Your support helps me dedicate more time to my open-source projects.
 
 ## Cryptocurrency Donations
 
 ⚠️ **Please ensure you are using the correct network for each address to avoid lost funds.**
 
-### Bitcoin (BTC)
-`YOUR_BITCOIN_ADDRESS_HERE`
+### USDT (TRC20 - TRON)
+Wallet Address:
+`TMgaC5Mcxx35gMWoV3BjqA6UvciMjxXehX`
 
-### Ethereum (ETH / ERC-20)
-`YOUR_ETHEREUM_ADDRESS_HERE`
-
-### Solana (SOL)
-`YOUR_SOLANA_ADDRESS_HERE`
-
-### Other Coins
-If you'd like to donate another coin, please open an issue and let me know!
+### BNB Smart Chain (BEP20)
+Wallet Address:
+`0x4138A3a1bD08C9d12110aD61b4244745C370fEdf`
